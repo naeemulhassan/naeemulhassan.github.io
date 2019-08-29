@@ -1,0 +1,48 @@
+.vertical-align {
+	display: flex;
+	align-items: center;
+}
+
+.link-color-another
+{
+	color: #fff;
+}
+
+.naeemul_hassan_name
+{
+	/*font-weight: bold;*/
+}
+
+.venue
+{
+	font-style: italic;
+}
+
+.well {
+	background: #d9edf7 /*#BBF4C0; /*ffd700*/
+}
+
+.container-fluid {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 950px; /* or 950px */
+}
+
+span.reverse {
+	unicode-bidi: bidi-override;
+	direction: rtl;
+}
+
+span.vertical {
+	writing-mode: vertical-rl;
+	text-orientation: upright;
+}
+
+a.badge-gold {
+	background: #ffd700; /*#BBF4C0; /*ffd700*/
+	color: black;
+}
+
+img.limit-height {
+	max-height: 240px;
+}
